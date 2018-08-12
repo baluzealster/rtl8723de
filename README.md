@@ -6,7 +6,7 @@ Realtek RTL8723DE module for Linux kernel version >= 4.15
 
 Install:
 
-git clone https://github.com/smlinux/rtl8723de.git -b 4.15-up
+git clone https://github.com/baluzealster/rtl8723de.git -b 4.15-up
 
 
 dkms add ./rtl8723de
